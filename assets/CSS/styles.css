@@ -45,6 +45,7 @@ h1, h2, h3 {
 
 #header .lead {
     font-family: var(--secondary-font);
+    text-transform:uppercase;
 }
 
 /* grid visualisation CSS for testing */
